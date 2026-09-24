@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-Here are some of my codes:
+  Here I will write some ideas and plans:
